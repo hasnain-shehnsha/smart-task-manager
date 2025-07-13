@@ -75,4 +75,4 @@ flutter run
 
 ## 📄 License
 
-MIT License © [hasnain=shehnsha](https://github.com/hasnain=shehnsha)
+MIT License © [hasnain-shehnsha](https://github.com/hasnain-shehnsha)
